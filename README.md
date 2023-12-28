@@ -1,3 +1,5 @@
 # senai-versoes-colaboracoes
 
-readme de exemplo
+readme de exemplo.
+
+Lembrei do comando: Git status.
